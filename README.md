@@ -46,3 +46,10 @@ Prevent requests without valid authentication headers.
 
 Add your own domain name and have it point to the running services (try adding a subdomain name to point to the processing server)
 > !NOTE: Domain names are not included in AWS’ free tier and will incur a cost.
+
+
+# Udagram Project ELB and Github URLs
+1. [ELB](image-filter-project-dev.us-east-1.elasticbeanstalk.com)
+2. [Github main branch - Production](https://github.com/felayo/image_filter_project)
+3. [Github dev-branch - Development](https://github.com/felayo/image_filter_project/tree/dev-branch)
+
